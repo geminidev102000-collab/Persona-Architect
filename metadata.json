@@ -1,0 +1,11 @@
+{
+  "name": "Persona Architect",
+  "description": "A Master Document creation tool using Gemini 3.1 Pro with Thinking and Live Audio to build a comprehensive personal agent reference file.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
